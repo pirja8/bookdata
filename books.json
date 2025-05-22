@@ -45,5 +45,50 @@
       "publisher": "Gramedia Pustaka Utama",
       "cover": "https://ebooks.gramedia.com/ebook-covers/41260/general_small_covers/ID_GPU2018MTH01CILLE.jpg"
     },
+    {
+      "id": "6",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": "2018",
+      "genre": "Self-improvement",
+      "publisher": "Gramedia Pustaka Utama",
+      "cover": "https://cdn.gramedia.com/uploads/items/9786020633176_.Atomic_Habit.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Filosofi Teras",
+      "author": "Henry Manampiring",
+      "year": "2018",
+      "genre": "Self-improvement",
+      "publisher": "Kompas Media Nusantara",
+      "cover": "https://cdn-web-2.ruangguru.com/landing-pages/assets/93c5ba0a-8d97-411a-a648-388695298804.png"
+    },
+    {
+      "id": "8",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "year": "2014",
+      "genre": "Sejarah Universal",
+      "publisher": "Kepustakaan Populer Gramedia",
+      "cover": "https://cdn.gramedia.com/uploads/items/591701404_sapiens.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Mindset",
+      "author": "Carol S. Dweck",
+      "year": "2020",
+      "genre": "Psikologi dan Self-improvement",
+      "publisher": "Penerbit Baca",
+      "cover": "https://cdn-web-2.ruangguru.com/landing-pages/assets/e07bbcd0-1ef4-423c-b7b5-2520d9927677.png"
+    },
+    {
+      "id": "10",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "year": "2020",
+      "genre": "Self-improvement",
+      "publisher": "Penerbit Baca",
+      "cover": "https://cdn.gramedia.com/uploads/picture_meta/2024/1/20/qvjtc65vbzmexfegzrgs7u.jpg"
+    },
   ]
 }
