@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "year": "2005",
+      "genre": "Fiksi",
+      "description": "Perjuangan anak-anak desa Gantong menuntut ilmu.",
+      "poster": "https://example.com/images/laskar_pelangi.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Bumi",
+      "author": "Tere Liye",
+      "year": "2014",
+      "genre": "Fantasi",
+      "description": "Petualangan Raib dan kawan-kawan di dunia paralel.",
+      "poster": "https://example.com/images/bumi.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Negeri 5 Menara",
+      "author": "Ahmad Fuadi",
+      "year": "2009",
+      "genre": "Inspiratif",
+      "description": "Kisah para santri penuh semangat dan harapan.",
+      "poster": "https://example.com/images/negeri_5_menara.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Critical Eleven",
+      "author": "Ika Natassa",
+      "year": "2015",
+      "genre": "Romantis",
+      "description": "11 menit paling penting dalam hidup dan cinta.",
+      "poster": "https://example.com/images/critical_eleven.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Filosofi Teras",
+      "author": "Henry Manampiring",
+      "year": "2018",
+      "genre": "Pengembangan Diri",
+      "description": "Panduan hidup tenang dengan filsafat Stoikisme.",
+      "poster": "https://example.com/images/filosofi_teras.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Ronggeng Dukuh Paruk",
+      "author": "Ahmad Tohari",
+      "year": "1982",
+      "genre": "Sastra",
+      "description": "Kisah Srintil dan kehidupan sosial desa Paruk.",
+      "poster": "https://example.com/images/ronggeng.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Cantik Itu Luka",
+      "author": "Eka Kurniawan",
+      "year": "2002",
+      "genre": "Drama",
+      "description": "Gabungan sejarah, mitos, dan kehidupan perempuan.",
+      "poster": "https://example.com/images/cantik_itu_luka.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Dilan 1990",
+      "author": "Pidi Baiq",
+      "year": "2014",
+      "genre": "Remaja",
+      "description": "Cinta Dilan dan Milea di masa SMA Bandung.",
+      "poster": "https://example.com/images/dilan_1990.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Tenggelamnya Kapal Van Der Wijck",
+      "author": "Hamka",
+      "year": "1939",
+      "genre": "Klasik",
+      "description": "Tragedi cinta dan konflik adat Minangkabau.",
+      "poster": "https://example.com/images/kapal_van_der_wijck.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Perahu Kertas",
+      "author": "Dee Lestari",
+      "year": "2009",
+      "genre": "Fiksi Romantis",
+      "description": "Kisah Kugy dan Keenan dalam menemukan cinta dan jati diri.",
+      "poster": "https://example.com/images/perahu_kertas.jpg"
+    }
+  ]
+}
